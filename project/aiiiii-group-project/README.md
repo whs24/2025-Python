@@ -2,7 +2,7 @@
 
 本项目是**aiiiii group**的项目文件
 
-项目组长为**王瀚森**（whs24@mails.tainghua.edu.cn)
+项目组长为**王瀚森**（whs24@mails.tainghua.edu.cn)<br>
 项目成员为：**谭承越、王彦霖、章学政**<br>
 再次感谢三位同学愿意和我一起合作开发<br>
 
